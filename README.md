@@ -1,5 +1,5 @@
 <h1 align="center">Hola, yo soy Christian Cano Stein</h1>
-<h3 align="center">+5 años de experiencia. Full-Stack Software Developer . De Paraguay. Analista/Programador</h3>
+<h3 align="center">+5 años de experiencia. Full-Stack Software Developer . De Paraguay. </h3>
 
 - 🔭 Actualmente estoy trabajando en [Personal py](https://www.personal.com.py)
 
